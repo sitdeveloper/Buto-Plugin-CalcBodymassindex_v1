@@ -1,7 +1,7 @@
 <?php
 /**
 <p>
- Body Mass Index (BMI) calculator...
+ Body Mass Index (BMI) calculator.
 </p>
  */
 class PluginCalcBodymassindex_v1{
