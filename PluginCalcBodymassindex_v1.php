@@ -10,7 +10,7 @@ class PluginCalcBodymassindex_v1{
    * @param type $weight<br>
    * @param type $height<br>
    * @param type $round<br>
-   * @return type<br>
+   * @return float
    */
   public static function calcBmi($weight = null, $height = null, $round = null){
     if($weight && $height){
